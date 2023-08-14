@@ -1,2 +1,3 @@
 Name = input('name: ')
-print(Name)
+Gender = input('your gender: ')
+print("hii",Name,". You are a ",Gender)
