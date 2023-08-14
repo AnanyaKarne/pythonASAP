@@ -1,1 +1,2 @@
-print("hola!", 453, FALSE)
+print("hola!", 453)
+print("hello")
