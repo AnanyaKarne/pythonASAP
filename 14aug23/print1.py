@@ -1,2 +1,2 @@
-print("hola!", 453)
+print("hola!", 453, end=" ")
 print("hello")
