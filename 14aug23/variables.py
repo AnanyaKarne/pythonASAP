@@ -1,3 +1,3 @@
 ann = "one "
 bnn = "two"
-print(ann)
+print(ann,bnn)
