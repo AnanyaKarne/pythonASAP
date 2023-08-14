@@ -1,1 +1,2 @@
-input('name: ')
+Name = input('name: ')
+print(Name)
