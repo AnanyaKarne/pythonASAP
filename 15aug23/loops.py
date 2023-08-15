@@ -18,3 +18,14 @@ for i in range(10, -1, -1):
 
 print()    
 
+m=0
+while m<=10:
+    print("yes ", m)
+    m+=1
+
+k=0
+while True:
+    print(k)
+    k+=1
+    if k==4:
+        break
