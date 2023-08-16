@@ -32,3 +32,24 @@
   - cant append, remove, change elements
 - You can have list in a list, a tuple in list,etc.
   - [ [],(),[[23,'erw']]]
+# Loops
+- for loops
+  - for i in range(5), will print from 0 t 4, wont include 5
+  - range(), is a function, creates a collection of that the input we give
+    - range takes parameters as -start, stop, step. and when we give one i/p it by default takes it as stop
+  - for i, element in enumerate(x):
+    print(i, element), will print the list elements with their index no.
+# Set
+- unique collection-no duplicate, dont keep track of freq or order of elements
+- performing in set rather than others is faster, deleting, searching, etc.
+- to create a set do, s = {23,4,5,3}
+- and to create an empty set, first make a constructor or you will end up making a dectionary
+  - x = set()
+  - s = { } 
+# Dictionary
+- Key value pairs
+- this also uses hash, so its fast
+- for printing the values of dict-
+  - for key , value in d.items():
+    print(key, value)
+    
