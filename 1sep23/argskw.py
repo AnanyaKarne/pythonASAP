@@ -21,13 +21,14 @@ print("NOW THE ARGS AND KWARGS")
 def argkw(*args, **kwargs):
     print(args, kwargs)
     print(args)
+    print(*args)
     print(kwargs)
 
 argkw(32,4,365,67,75, a=3, b=32)
 
 def kk(*one,**two):
     print(one, two)
-
+    print(*one)
 kk(23,43,45,23,12, x=32, y=322, z=65)
 print("--------------")
 
