@@ -52,4 +52,8 @@
 - for printing the values of dict-
   - for key , value in d.items():
     print(key, value)
-    
+# Unpack operator 
+- x = [32,43,31,43323]
+  - print(x)
+  - print(*x) 
+  - this is an unpack operator, it unpacks all the elements of the list individual elements
