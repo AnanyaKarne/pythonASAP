@@ -57,3 +57,5 @@
   - print(x)
   - print(*x) 
   - this is an unpack operator, it unpacks all the elements of the list individual elements
+# F string
+- if you want to embbed something without concatenation use f'aekeudfhsrdh' and you can add multiple ____ without using "+"
